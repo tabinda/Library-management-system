@@ -1,2 +1,19 @@
-Please provide a project description in README. This helps display a friendly project description in github project page.
+PROJECT IN BRIEF
+
+Project Title             Library System of WISE
+Organization            Wah Islamic School of Excellence
+Objective                  To develop a computerized system that can be used b any level   system that maintain all type of information about wise library system.
+ Tools Used                 MYSQL
+
+
+
+1.  Introduction
+Many library systems are operated manually by group of people. In such situations many people involved in the process of managing the library such a way that to keep records regarding the books & students (borrowers), check the books manually, keep records on issued books etc. all these things have to be carried out manually & if the library is large in content handling is also a problem. 
+On the other hand keeping large amount of maintenance workers may cost a lot & it will not be efficient for a library. Manual record keeping is also not a reliable method as people tend to forget things. On the borrower’s point of view, in manual system borrower can’t find a book exactly at once as they are not ordered well. Sometimes user might be searching for a book that is not available in the library in such situations people get annoyed or depressed. Therefore there should be a reliable way to manage the library system.
+    Aims and Objectives: 
+The aim of this project is to develop a system that can handle & manage the activities involved in a library in an efficient & reliable way. Less managing personnel & easy searching availability & user profile managing are major goals in this project.
+ Develop a system that can replace the manual library managing system.
+ Develop a database which stores user details & book details.
+ Give reliable search facility for the users
+Note: Database Schema of library management system is in image file and MYSQL commands of tables are in notepad file.
 
